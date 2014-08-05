@@ -1,0 +1,30 @@
+{
+  "name": "dirarare-example-pong",
+  "version": "0.0.1",
+  "description": "A pong game for the dirarare pixel wall",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/petershaw/dirarare-example-pong"
+  },
+  "keywords": [
+    "pong",
+    "dmx",
+    "dirarare",
+    "artnet",
+    "pixelwall"
+  ],
+  "author": "Peter Shaw <unthoughted@googlemail.com>",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/petershaw/dirarare-example-pong/issues"
+  },
+  "homepage": "https://github.com/petershaw/dirarare-example-pong",
+  "dependencies": {
+    "dirarare-client-lib": "~0.0.5",
+    "keypress": "^0.2.1"
+  }
+}
